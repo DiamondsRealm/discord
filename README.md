@@ -1,2 +1,2 @@
-# store
-Literally just redirects to the store at https://server.pro/server/4654030
+# discord
+Literally just redirects to the store at https://discord.gg/7HPgu53
